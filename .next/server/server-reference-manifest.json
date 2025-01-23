@@ -1,0 +1,30 @@
+{
+  "node": {
+    "13781741f92a608123a646613da6ecb68ba9a2b8": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpc%5C%5CDesktop%5C%5Capi-intergrate%5C%5Cnode_modules%5C%5C%40sanity%5C%5Cnext-loader%5C%5Cdist%5C%5Cserver-actions.js%22%2C%5B%22revalidateSyncTags%22%2C%22setPerspectiveCookie%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cpc%5C%5CDesktop%5C%5Capi-intergrate%5C%5Cnode_modules%5C%5Cnext-sanity%5C%5Cdist%5C%5Cvisual-editing%5C%5Cserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "aa89c4122ff8fec2aa202ce588f19e39f2abda35": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpc%5C%5CDesktop%5C%5Capi-intergrate%5C%5Cnode_modules%5C%5C%40sanity%5C%5Cnext-loader%5C%5Cdist%5C%5Cserver-actions.js%22%2C%5B%22revalidateSyncTags%22%2C%22setPerspectiveCookie%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cpc%5C%5CDesktop%5C%5Capi-intergrate%5C%5Cnode_modules%5C%5Cnext-sanity%5C%5Cdist%5C%5Cvisual-editing%5C%5Cserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "a435e631da3097e35405f86356065fa6ea8af4cc": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpc%5C%5CDesktop%5C%5Capi-intergrate%5C%5Cnode_modules%5C%5C%40sanity%5C%5Cnext-loader%5C%5Cdist%5C%5Cserver-actions.js%22%2C%5B%22revalidateSyncTags%22%2C%22setPerspectiveCookie%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cpc%5C%5CDesktop%5C%5Capi-intergrate%5C%5Cnode_modules%5C%5Cnext-sanity%5C%5Cdist%5C%5Cvisual-editing%5C%5Cserver-actions.js%22%2C%5B%22revalidateRootLayout%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "zbbFcbAZynLs7h9UIkMwoHX/UARk3ffkeI4ByUccpV0="
+}
